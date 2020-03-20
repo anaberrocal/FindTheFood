@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe558f04.chunk.css",
+    "main.js": "/static/js/main.1242f0ca.chunk.js",
+    "main.js.map": "/static/js/main.1242f0ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb8d49e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb8d49e7.js.map",
+    "static/js/2.95006776.chunk.js": "/static/js/2.95006776.chunk.js",
+    "static/js/2.95006776.chunk.js.map": "/static/js/2.95006776.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4d9ddf4ada84bfab63f4a386bd7ade5d.js": "/precache-manifest.4d9ddf4ada84bfab63f4a386bd7ade5d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fe558f04.chunk.css.map": "/static/css/main.fe558f04.chunk.css.map",
+    "static/media/findthefood.png": "/static/media/findthefood.1ffb30e7.png",
+    "static/media/SearchBar.css": "/static/media/findthefood_mobile.a9b29c4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb8d49e7.js",
+    "static/js/2.95006776.chunk.js",
+    "static/css/main.fe558f04.chunk.css",
+    "static/js/main.1242f0ca.chunk.js"
+  ]
+}
