@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FindTheFood/static/css/main.e2fbe629.chunk.css",
+    "main.js": "/FindTheFood/static/js/main.2ded0bee.chunk.js",
+    "main.js.map": "/FindTheFood/static/js/main.2ded0bee.chunk.js.map",
+    "runtime-main.js": "/FindTheFood/static/js/runtime-main.859cd4bc.js",
+    "runtime-main.js.map": "/FindTheFood/static/js/runtime-main.859cd4bc.js.map",
+    "static/js/2.95006776.chunk.js": "/FindTheFood/static/js/2.95006776.chunk.js",
+    "static/js/2.95006776.chunk.js.map": "/FindTheFood/static/js/2.95006776.chunk.js.map",
+    "index.html": "/FindTheFood/index.html",
+    "precache-manifest.2b84c4ef64be04d35625f2f1d8daa06e.js": "/FindTheFood/precache-manifest.2b84c4ef64be04d35625f2f1d8daa06e.js",
+    "service-worker.js": "/FindTheFood/service-worker.js",
+    "static/css/main.e2fbe629.chunk.css.map": "/FindTheFood/static/css/main.e2fbe629.chunk.css.map",
+    "static/media/findthefood.png": "/FindTheFood/static/media/findthefood.1ffb30e7.png",
+    "static/media/SearchBar.css": "/FindTheFood/static/media/findthefood_mobile.a9b29c4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859cd4bc.js",
+    "static/js/2.95006776.chunk.js",
+    "static/css/main.e2fbe629.chunk.css",
+    "static/js/main.2ded0bee.chunk.js"
+  ]
+}
