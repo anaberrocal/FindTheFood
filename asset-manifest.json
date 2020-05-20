@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FindTheFood/static/css/main.e2fbe629.chunk.css",
+    "main.css": "/FindTheFood/static/css/main.9f8ed67d.chunk.css",
     "main.js": "/FindTheFood/static/js/main.2ded0bee.chunk.js",
     "main.js.map": "/FindTheFood/static/js/main.2ded0bee.chunk.js.map",
     "runtime-main.js": "/FindTheFood/static/js/runtime-main.859cd4bc.js",
@@ -8,16 +8,16 @@
     "static/js/2.95006776.chunk.js": "/FindTheFood/static/js/2.95006776.chunk.js",
     "static/js/2.95006776.chunk.js.map": "/FindTheFood/static/js/2.95006776.chunk.js.map",
     "index.html": "/FindTheFood/index.html",
-    "precache-manifest.2b84c4ef64be04d35625f2f1d8daa06e.js": "/FindTheFood/precache-manifest.2b84c4ef64be04d35625f2f1d8daa06e.js",
+    "precache-manifest.3412681b6ec2a69e07e4aba5106030d4.js": "/FindTheFood/precache-manifest.3412681b6ec2a69e07e4aba5106030d4.js",
     "service-worker.js": "/FindTheFood/service-worker.js",
-    "static/css/main.e2fbe629.chunk.css.map": "/FindTheFood/static/css/main.e2fbe629.chunk.css.map",
-    "static/media/findthefood.png": "/FindTheFood/static/media/findthefood.1ffb30e7.png",
-    "static/media/SearchBar.css": "/FindTheFood/static/media/findthefood_mobile.a9b29c4d.png"
+    "static/css/main.9f8ed67d.chunk.css.map": "/FindTheFood/static/css/main.9f8ed67d.chunk.css.map",
+    "static/media/SearchBar.css": "/FindTheFood/static/media/FindTheFood_Mobile.8fe7584b.png",
+    "static/media/findthefood.png": "/FindTheFood/static/media/findthefood.1ffb30e7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.859cd4bc.js",
     "static/js/2.95006776.chunk.js",
-    "static/css/main.e2fbe629.chunk.css",
+    "static/css/main.9f8ed67d.chunk.css",
     "static/js/main.2ded0bee.chunk.js"
   ]
 }
