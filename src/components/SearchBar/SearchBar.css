@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url('./findthefood_desktop.png');
+    background-image: url('../assets/FindTheFood_Desktop.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 25rem;
@@ -77,7 +77,7 @@
   
   @media only screen and (max-width: 560px) {
     .SearchBar {
-      background-image: url('./findthefood_mobile.png');
+      background-image: url('../assets/FindTheFood_Mobile.png');
     }
   
     .SearchBar-sort-options ul {

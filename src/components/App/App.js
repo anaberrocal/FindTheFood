@@ -3,7 +3,7 @@ import './App.css';
 import BusinessList from '../BusinessList/BusinessList.js';
 import SearchBar from '../SearchBar/SearchBar.js';
 import Yelp from '../../util/Yelp.js';
-import logo from './findthefood.png';
+import logo from '../assets/findthefood.png';
 
 
 class App extends React.Component {
